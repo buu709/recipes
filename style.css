@@ -9,6 +9,7 @@ input[type=text] {
 	border-radius: 6px;
 	border-color: #F8F8FF;
 	background-color: #474749;
+	box-sizing: border-box;
 }
 input.In {
 	height: 275px;
