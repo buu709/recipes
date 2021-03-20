@@ -6,10 +6,10 @@ input[type=text] {
 	width: 100%;
 	padding: 12px 20px;
 	margin: 8px 0;
-	box-sizing: border-box;
 	border-radius: 6px;
+	border-color: #F8F8FF;
 	background-color: #474749;
 }
 input.In {
-	height: 325px;
+	height: 275px;
 }
