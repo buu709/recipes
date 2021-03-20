@@ -10,3 +10,6 @@ input[type=text] {
 	border-radius: 6px;
 	background-color: #474749;
 }
+input.In {
+	height: 35%;
+}
